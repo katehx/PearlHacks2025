@@ -28,3 +28,8 @@ https://platform.openai.com/docs/guides/text-generation
 https://platform.openai.com/docs/quickstart
 
 https://pyautogui.readthedocs.io/en/latest/
+
+
+In order to start the program run:
+
+streamlit run main.py
