@@ -24,3 +24,7 @@ https://www.geeksforgeeks.org/python-pandas-dataframe/
 https://docs.streamlit.io/
 
 https://platform.openai.com/docs/guides/text-generation
+
+https://platform.openai.com/docs/quickstart
+
+https://pyautogui.readthedocs.io/en/latest/
